@@ -1,0 +1,35 @@
+{
+ "generated_utc": "2026-07-19T07:47:08Z",
+ "prev_record_sha256": "601f7ba0eb7bcb797518525a2de1ced9e558cbd2a337294589bb7fe16987c050",
+ "public_proof_hero": "840/840",
+ "public_proof_n": "840",
+ "schema": "concierge-attestation/1",
+ "ventures": {
+  "dasher": {
+   "evals": {
+    "pass_rate": 100.0,
+    "passed": 51,
+    "results_sha256": "d3a28fa73f01b311f930dcb795632e2414642bef662db7d89441bb83d98864f0",
+    "total": 51,
+    "ts": "2026-07-19T07:44:08"
+   }
+  },
+  "dti": {
+   "evals": {
+    "pass_rate": 94.9,
+    "passed": 56,
+    "results_sha256": "1968c82fa70538e03a020b297fd462393a183451a5ef3c4b34c23d7a7d876bfd",
+    "total": 59,
+    "ts": "2026-07-19T07:47:07"
+   },
+   "event_chain_head_sha256": "2a1490f62b23ac046dd83a968cd02979d285787d755f3e8abc7aebd880c346ea",
+   "event_count": 11,
+   "facts_ledger_sha256": "b740c5521ee4d262f3f013c8a7e5101bef075c4a4fa087099bae19c282c5ddd3"
+  },
+  "launch_day": {
+   "event_chain_head_sha256": "b8ec0f7279553938bb75fdf173d541f5388590244d91dc3a7a4aab4f39b9a29c",
+   "event_count": 19,
+   "facts_ledger_sha256": "67ba83678409a48a842d61d9fcfd9070b3f6f62ca9c90234611ebd6f27735e11"
+  }
+ }
+}
